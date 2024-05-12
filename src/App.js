@@ -44,6 +44,8 @@ const App = () => {
        <h1 className='heading'>PORTFOLIO</h1> 
        {/* <MyCard/> */}
      </Router>
+
+    //  this project will run on github
   )
 };
 
